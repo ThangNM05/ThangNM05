@@ -118,23 +118,10 @@ class WhoAmI:
 <br>
 
   <h2 align="center">🔥 GitHub Stats 🔥</h2>
- <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <table align="center" style="width:100%;">
-    <tr>
-      <td>
-        <br>
-          <div align=center>
-            <a href="#" title="ThangNM">
-              <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThangNM05&hide=c%2523,powershell,Mathematica,Ruby,Objective-C,Objective-C++,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-            </a>
-          </div>
-      </td>
-      <td>
-        <div align=center>
-          <a href="#" title="ThangNMdev">
-            <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ThangNM05&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+ <div align="center" dir="auto">
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/845f4de6fcb24f6751e3f381983618e10d5bb897ebdd41592655ba796c4bc794/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d71756f63686e2d526973696e6753746172267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/845f4de6fcb24f6751e3f381983618e10d5bb897ebdd41592655ba796c4bc794/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d71756f63686e2d526973696e6753746172267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThangNM05&amp;theme=tokyonight" style="max-width: 100%;"></a>
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7ba06a73ed34c58f62a85587b34e4fe50494a3f0062b72c42535bedcd7e54137/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d71756f63686e2d526973696e6753746172267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/7ba06a73ed34c58f62a85587b34e4fe50494a3f0062b72c42535bedcd7e54137/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d71756f63686e2d526973696e6753746172267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThangNM05&amp;theme=tokyonight" style="max-width: 100%;"></a>
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b59c736dd419e16616c1b65dd03111005392134485791276de081b7dd216fb43/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d71756f63686e2d526973696e6753746172267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/b59c736dd419e16616c1b65dd03111005392134485791276de081b7dd216fb43/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d71756f63686e2d526973696e6753746172267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThangNM05&amp;theme=tokyonight" style="max-width: 100%;"></a>
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7faa467937172977ff7310d588dd43e2303bbefad0761dd146b505266554607c/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d71756f63686e2d526973696e6753746172267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/7faa467937172977ff7310d588dd43e2303bbefad0761dd146b505266554607c/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d71756f63686e2d526973696e6753746172267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThangNM05&amp;theme=tokyonight" style="max-width: 100%;"></a>
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2ee2a302f3a30313dde72db8c1f362ad7ce73c49e7c049eab0174144e8692365/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f647563746976652d74696d653f757365726e616d653d71756f63686e2d526973696e6753746172267468656d653d746f6b796f6e69676874267574634f66667365743d37"><img src="https://camo.githubusercontent.com/2ee2a302f3a30313dde72db8c1f362ad7ce73c49e7c049eab0174144e8692365/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f647563746976652d74696d653f757365726e616d653d71756f63686e2d526973696e6753746172267468656d653d746f6b796f6e69676874267574634f66667365743d37" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThangNM05&amp;theme=tokyonight&amp;utcOffset=7" style="max-width: 100%;"></a>
+</div>
